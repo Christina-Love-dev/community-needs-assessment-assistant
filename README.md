@@ -14,6 +14,9 @@ Community organizations frequently collect survey data but may not have the time
 - Generate AI-assisted community needs assessments
 - Export reports as PDF documents
 
+## Application Preview
+
+![Community Needs Assessment Assistant](screenshots/app-preview.png)
 ## Technology
 
 - Python
