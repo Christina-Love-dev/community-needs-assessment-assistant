@@ -33,6 +33,10 @@ Community organizations frequently collect survey data but may not have the time
 4. Claude analyzes response patterns
 5. Generate a downloadable community assessment report
 
+## Example Data
+
+This repository includes a sample community survey dataset for testing the application workflow. The data is fictional and included only for demonstration purposes.
+
 ## Design Approach
 
 The tool uses a human-in-the-loop approach. Users define the research purpose and select relevant survey data while Claude assists with analysis and synthesis.
